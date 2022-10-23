@@ -1,6 +1,6 @@
 We're a group of friends who spent the last 8 years building software together at Open Listings then Opendoor. Now we've gone Open Source :).
 
-### Guiding Principals
+### Guiding Principles
 - *100 year software*
   - Build software that can outlive our company. Today this means we make open source software that can be self-hosted without much centralized support or operations.
 - *Sustainable capitalism*
